@@ -1,6 +1,6 @@
 # My Task Manager
 
-This is my React course project, a task manager where I can add my daily tasks, put them in categories, and tick them off when they're done. Everything is saved in the browser, so the tasks are still there after I refresh the page.
+This is React course project, a task manager where we can add daily tasks, put them in categories, and tick them off when they're done. Everything is saved in the browser, so the tasks are still there after refresh the page.
 
 Live demo: https://your-link.vercel.app
 
