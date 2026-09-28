@@ -2,7 +2,7 @@
 
 This is React course project, a task manager where we can add daily tasks, put them in categories, and tick them off when they're done. Everything is saved in the browser, so the tasks are still there after refresh the page.
 
-Live demo: https://your-link.vercel.app
+Live demo: https://personal-task-manager-tau-topaz.vercel.app/
 
 ## What it can do
 
